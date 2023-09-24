@@ -12,7 +12,7 @@
 
 - 📝 My goal is to work with games at some point.
 
-- ✏️ I like drawing as a hobby
+- ✏️ I like drawing as a hobby.
 
 - 📫 How to reach me **davidsilvateixeira5@hotmail.com**
 
@@ -44,7 +44,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Davstx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davstx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davstx&layout=compact&langs_count=8&theme=algolia"/>
 </a>
