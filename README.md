@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://github.com/Davstx">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davstx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davstx&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davsteixeira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davsteixeira&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
