@@ -21,8 +21,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/davstx/"><img src="https://img.shields.io/badge/davstx-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/davstx"><img src="https://img.shields.io/badge/davstx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/davsteixeira/"><img src="https://img.shields.io/badge/davsteixeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/davsteixeira"><img src="https://img.shields.io/badge/davsteixeira-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 
