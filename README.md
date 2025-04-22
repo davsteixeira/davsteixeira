@@ -8,7 +8,7 @@
 
 - 🤝 I’m available for freelancing or job offers.
 
-- 🌱 I'm learning more about Java, Graphic Design, and Cloud Architecture.
+- 🌱 I'm learning more about .NET, Graphic Design, and Cloud Architecture.
 
 - 📝 My goal is to work with games at some point.
 
