@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Teixeira</h1>
 <br>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" src="./assets/red_art.png">
+ 
 </a>
 
 - 🎓 I'm currently studying Computer Science at the University.
