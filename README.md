@@ -10,7 +10,7 @@
 
 - 🌱 I'm learning more about .NET, Graphic Design, and Cloud Architecture.
 
-- 📝 My goal is to work with games at some point.
+- 📝 My goal is to work with games.
 
 - ✏️ I like drawing as a hobby.
 
