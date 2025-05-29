@@ -4,13 +4,11 @@
  
 </a>
 
-- 🎓 I'm currently studying Computer Science at the University.
+- 🎓 I'm currently studying System Analysis and Development at the University.
 
 - 🤝 I’m available for freelancing or job offers.
 
 - 🌱 I'm learning more about .NET, Graphic Design, and Cloud Architecture.
-
-- 📝 My goal is to work with games.
 
 - ✏️ I like drawing as a hobby.
 
